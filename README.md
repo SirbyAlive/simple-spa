@@ -1,7 +1,7 @@
 # simple-spa
-![Static Badge](https://img.shields.io/badge/sirbyalive%2Fsimple--spa-0d1117?logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FSirbyAlive%2Fsimple-spa)$~$
-![Static Badge](https://img.shields.io/badge/sirbyalive%2Fsimple--spa-1D63ED?logo=docker&logoColor=white&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fsirbyalive%2Fsimple-spa) 
 
+![](https://img.shields.io/badge/sirbyalive%2Fsimple--spa-0d1117?logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FSirbyAlive%2Fsimple-spa) 
+![](https://img.shields.io/badge/sirbyalive%2Fsimple--spa-1D63ED?logo=docker&logoColor=white&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fsirbyalive%2Fsimple-spa)
 
 A simple image to contenerize your simgle app application. Based on Alpine linux, served by Nginx.
 
